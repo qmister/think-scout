@@ -6,11 +6,7 @@ tp5er/think-scout 为模型的全文搜索提供了一个简单的、基于驱�
 
 目前，Scout 自带了一个 Elasticsearch 驱动；而编写自定义驱动程序很简单，你可以自由地使用自己的搜索实现来扩展 Scout。
 
-## 安装
 
-~~~
-composer require tp5er/think-scout 1.0-alpha
-~~~
 
 ## 命令行使用
 
